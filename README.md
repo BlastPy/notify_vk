@@ -34,7 +34,7 @@ stdout_logfile=./program.log  #address to log file `
 ##Other command for supervisor
 
 `supervisorctl status program # show status our program` \
-supervisorctl status # show all status ` \
-supervisorctl stop program # stop program ` \
-supervisorctl start program # start program ` \
+`supervisorctl status # show all status ` \
+`supervisorctl stop program # stop program ` \
+`supervisorctl start program # start program ` \
  
