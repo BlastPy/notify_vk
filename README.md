@@ -19,11 +19,11 @@ Show your message from vk.com in notify-osd
  
 ##Open config and add
 
-`[program:vk_notify]
+`[program:vk_notify]`
 
-command=python n_vk.py #address to file
+`command=python n_vk.py #address to file`
 
-stdout_logfile=./program.log  #address to log file `
+`stdout_logfile=./program.log  #address to log file `
 
 ##Edit n_vk.py
 
