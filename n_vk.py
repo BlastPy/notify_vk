@@ -3,7 +3,7 @@ import sys
 import vk
 import time
 import os
-
+### Another commit ###
 vkapi = vk.API('4597440', 'Your login','Your password',scope=2097151) #Takes token from vk.com
 s = vkapi.access_token 
 while True:
