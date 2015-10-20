@@ -28,4 +28,7 @@ while True:
 		time.sleep(1)
 		
 	else:
-		time.sleep(5)
+		time.sleep(5) 
+	### 
+	So just have fun.
+	###
