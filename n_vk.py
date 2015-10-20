@@ -3,14 +3,8 @@ import sys
 import vk
 import time
 import os
-<<<<<<< HEAD
 
 
-||||||| merged common ancestors
-
-=======
-### Another commit ###
->>>>>>> fecd1b0b087f4ca79c6390c05e201dc9374c95a6
 vkapi = vk.API('4597440', 'Your login','Your password',scope=2097151) #Takes token from vk.com
 s = vkapi.access_token 
 while True:
